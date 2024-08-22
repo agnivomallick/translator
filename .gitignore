@@ -1,0 +1,8 @@
+# ignore files and dirs
+
+.idea/
+__pycache__/
+env/
+version.yml
+version_file_creator.py
+output/

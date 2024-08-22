@@ -35,8 +35,8 @@ Plus, I recommend virtual environment for continuing. (not required, but preferr
 - Now here you can run the `translator.py` file with python: `python translator.py` (**THE PACKAGES ARE REQUIRED. They are in the requirements section.**)
 - Now you can make an `.exe` file with PyInstaller/cx_freeze/py2exe or any other tool
 - If you want to distribute you can make an installer out of it
-- **BUT ADHERE TO THE MIT LICENSE, WHATEVER YOU DO.**
-- You can modify the file, however follow the terms of the MIT License.
+- **BUT ADHERE TO THE [MIT LICENSE](https://github.com/agnivomallick/translator/blob/main/LICENSE), WHATEVER YOU DO.**
+- You can modify the file, however follow the terms of the [MIT License](https://github.com/agnivomallick/translator/blob/main/LICENSE)
 
 ## Tools/Packages Used
 
@@ -46,4 +46,4 @@ There is also usage of `ctypes` and `os` libraries of the Python standard librar
 
 ## Licensing
 
-This product is licensed under the terms of the [MIT License](https://github.com/agnivomallick/blob/main/LICENSE)
+This product is licensed under the terms of the [MIT License](https://github.com/agnivomallick/translator/blob/main/LICENSE)
